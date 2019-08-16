@@ -6,4 +6,7 @@ https://ducanishah.github.io/PredatorPrey/
 
 Featuring:
 A rational function governing the chance of each fox successfully hunting
+
 A logistic growth of rabbits 
+
+Push any key to simulate a new generation
